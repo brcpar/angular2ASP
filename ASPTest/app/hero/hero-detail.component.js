@@ -6,6 +6,7 @@
       })
       .Class({
           constructor: [app.HeroService, function (HeroService) {
+              debugger;
               this.heroService = HeroService;
           }],
       })

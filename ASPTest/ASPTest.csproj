@@ -94,13 +94,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\app.component.js" />
+    <Content Include="app\hero\hero-detail.component.html" />
+    <Content Include="app\hero\hero-detail.component.js" />
     <Content Include="app\hero\hero-form.component.html" />
     <Content Include="app\hero\hero-form.component.js" />
     <Content Include="app\hero\hero-list.component.html" />
     <Content Include="app\hero\hero-list.component.js" />
     <Content Include="app\hero\hero-service.js" />
+    <Content Include="app\main.html" />
     <Content Include="app\main.js" />
     <Content Include="app\hero\hero.js" />
+    <Content Include="app\route.js" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
